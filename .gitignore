@@ -161,3 +161,8 @@ cython_debug/
 
 *.sh
 .data/
+bio_seman_seg/dataset/chasedb1
+bio_seman_seg/dataset/dca
+bio_seman_seg/dataset/drive
+bio_seman_seg/dataset/hrf
+bio_seman_seg/dataset/kvasir-capsule-seg
