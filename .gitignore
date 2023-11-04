@@ -166,3 +166,6 @@ bio_seman_seg/dataset/dca
 bio_seman_seg/dataset/drive
 bio_seman_seg/dataset/hrf
 bio_seman_seg/dataset/kvasir-capsule-seg
+
+*.rar
+*.zip
