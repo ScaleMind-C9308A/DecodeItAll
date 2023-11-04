@@ -169,3 +169,7 @@ bio_seman_seg/dataset/kvasir-capsule-seg
 
 *.rar
 *.zip
+
+bio_seman_seg/dataset/Kvasir-SEG/
+bio_seman_seg/dataset/sessile-main-Kvasir-SEG
+bio_seman_seg/dataset/CVC-ClinicDB
