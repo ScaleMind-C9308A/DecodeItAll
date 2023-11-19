@@ -172,3 +172,5 @@ bio_seman_seg/dataset/kvasir-capsule-seg
 bio_seman_seg/dataset/Kvasir-SEG/
 bio_seman_seg/dataset/sessile-main-Kvasir-SEG
 bio_seman_seg/dataset/CVC-ClinicDB
+
+bio_seman_seg/dataset/
